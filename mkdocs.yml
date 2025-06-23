@@ -583,13 +583,6 @@ nav:
     - 量化交易员面试问题大全: job/translated_Interview_Questions_for_the_Quantitative_Trader_Job.md
   - 独家资源✨:
     - Overview: llmquant_resources/overview.md
-  - 量化图书馆:
-    - Overview: library/overview.md
-    - 图书分类指南:
-      - 入门级书籍: library/book/beginner.md
-      - 进阶级书籍: library/book/advanced.md
-      - 编程实现类: library/book/programming.md
-      - AI量化类: library/book/ai-quant.md
 
 # Configuration
 theme:
