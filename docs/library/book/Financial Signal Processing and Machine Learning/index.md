@@ -10,7 +10,7 @@
 - **出版年份**: 2016
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Financial Signal Processing and Machine Learning.pdf)
+- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Financial%20Signal%20Processing%20and%20Machine%20Learning.pdf)
 
 ### 内容简介
 

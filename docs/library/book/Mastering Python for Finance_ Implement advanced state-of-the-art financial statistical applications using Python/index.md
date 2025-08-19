@@ -10,7 +10,7 @@
 - **出版年份**: 2019
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Mastering Python for Finance_ Implement advanced state-of-the-art financial statistical applications using Python.pdf)
+- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Mastering%20Python%20for%20Finance_%20Implement%20advanced%20state-of-the-art%20financial%20statistical%20applications%20using%20Python.pdf)
 
 ### 内容简介
 

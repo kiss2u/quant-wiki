@@ -9,7 +9,7 @@
 - **出版年份**: 2014
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/A%20Linear%20Algebra%20Primer%20for%20Financial%20Engineering.pdf)
+- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/A%2520Linear%2520Algebra%2520Primer%2520for%2520Financial%2520Engineering.pdf)
 
 ### 内容简介
 

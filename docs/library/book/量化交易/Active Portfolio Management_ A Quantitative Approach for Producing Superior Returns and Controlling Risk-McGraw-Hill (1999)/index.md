@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Active%20Portfolio%20Management_%20A%20Quantitative%20Approach%20for%20Producing%20Superior%20Returns%20and%20Controlling%20Risk-McGraw-Hill%20(1999).pdf)
+- **下载**: [点击下载](https://quant-wiki.com/pdf/Active%2520Portfolio%2520Management_%2520A%2520Quantitative%2520Approach%2520for%2520Producing%2520Superior%2520Returns%2520and%2520Controlling%2520Risk-McGraw-Hill%2520%281999.pdf).pdf)
 
 ### 内容简介
 

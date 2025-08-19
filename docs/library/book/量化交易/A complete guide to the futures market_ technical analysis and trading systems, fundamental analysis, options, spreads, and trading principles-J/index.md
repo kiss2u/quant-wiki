@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/A%20complete%20guide%20to%20the%20futures%20market_%20technical%20analysis%20and%20trading%20systems%2C%20fundamental%20analysis%2C%20options%2C%20spreads%2C%20and%20trading%20principles-J.pdf)
+- **下载**: [点击下载](https://quant-wiki.com/pdf/A%2520complete%2520guide%2520to%2520the%2520futures%2520market_%2520technical%2520analysis%2520and%2520trading%2520systems%252C%2520fundamental%2520analysis%252C%2520options%252C%2520spreads%252C%2520and%2520trading%2520principles-J.pdf)
 
 
 ### 内容简介

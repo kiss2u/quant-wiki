@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Quantitative%20Equity%20Portfolio%20Management_%20An%20Active%20Approach%20to%20Portfolio%20Construction%20and%20Management%20(McGraw-Hill%20Library%20of%20Investment%20and%20Finance)-McGraw-Hill%20Edu.pdf)
+- **下载**: [点击下载](https://quant-wiki.com/pdf/Quantitative%2520Equity%2520Portfolio%2520Management_%2520An%2520Active%2520Approach%2520to%2520Portfolio%2520Construction%2520and%2520Management%2520%28McGraw-Hill%2520Library%2520of%2520Investment%2520and%2520Finance.pdf)-McGraw-Hill%20Edu.pdf)
 
 ### 内容简介
 

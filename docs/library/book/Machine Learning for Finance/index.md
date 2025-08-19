@@ -10,7 +10,7 @@
 - **出版年份**: 2019
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Machine Learning for Finance.pdf)
+- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Machine%20Learning%20for%20Finance.pdf)
 
 ### 内容简介
 
