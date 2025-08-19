@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Methods%20of%20Mathematical%20Finance-Springer%20%282001.pdf).pdf)
+- **下载**: [点击下载](https://quant-wiki.com/pdf/Methods%20of%20Mathematical%20Finance-Springer%20%282001.pdf)
 
 ### 内容简介
 

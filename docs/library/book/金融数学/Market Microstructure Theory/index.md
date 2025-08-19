@@ -8,7 +8,7 @@
 - **出版年份**: 1995
 - **难度**: ⭐⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Maureen%2520O%27Hara%2520-%2520Market%2520Microstructure%2520Theory%2520%2520-Wiley%2520%281998.pdf).pdf)
+- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Maureen%20O%27Hara%20-%20Market%20Microstructure%20Theory%20%20-Wiley%20%281998%29.pdf)
 
 ### 内容简介
 

@@ -8,7 +8,7 @@
 - **出版年份**: 2020
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Advances%20in%20Active%20Portfolio%20Management_%20New%20Developments%20in%20Quantitative%20Investing-McGraw-Hill%20Education%20%282020.pdf).pdf)
+- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Advances%20in%20Active%20Portfolio%20Management_%20New%20Developments%20in%20Quantitative%20Investing-McGraw-Hill%20Education%20%282020.pdf)
 
 ### 内容简介
 

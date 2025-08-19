@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Dan%2520Stefanica%2520-%2520A%2520Primer%2520for%2520the%2520Mathematics%2520of%2520Financial%2520Engineering-FE%2520Press%2520%282008.pdf).pdf)
+- **下载**: [点击下载](https://quant-wiki.com/pdf/Dan%20Stefanica%20-%20A%20Primer%20for%20the%20Mathematics%20of%20Financial%20Engineering-FE%20Press%20%282008%29.pdf)
 
 ### 内容简介
 

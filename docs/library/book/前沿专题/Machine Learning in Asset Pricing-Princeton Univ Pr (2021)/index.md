@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Machine%20Learning%20in%20Asset%20Pricing-Princeton%20Univ%20Pr%20%282021.pdf).pdf)
+- **下载**: [点击下载](https://quant-wiki.com/pdf/Machine%20Learning%20in%20Asset%20Pricing-Princeton%20Univ%20Pr%20%282021.pdf)
 
 ### 内容简介
 

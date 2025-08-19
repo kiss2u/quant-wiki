@@ -10,7 +10,7 @@
 - **出版年份**: 2022
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/%2520Mathematical%2520Techniques%2520in%2520Finance_%2520An%2520Introduction%2520%282022%252C%2520Wiley.pdf).pdf)
+- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/%20Mathematical%20Techniques%20in%20Finance_%20An%20Introduction%20%282022%2C%20Wiley%29.pdf)
 
 ### 内容简介
 

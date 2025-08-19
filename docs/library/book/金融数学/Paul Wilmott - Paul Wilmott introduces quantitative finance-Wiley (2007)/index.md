@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Quantitative%2520risk%2520management%2520_%2520concepts%252C%2520techniques%2520and%2520tools-Princeton%2520University%2520Press%2520%282015.pdf).pdf)
+- **下载**: [点击下载](https://quant-wiki.com/pdf/Paul%20Wilmott%20-%20Paul%20Wilmott%20introduces%20quantitative%20finance-Wiley%20%282007%29.pdf)
 
 ### 内容简介
 
