@@ -9,7 +9,7 @@
 - **出版年份**: 2020
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Artificial Intelligence in Finance_ A Python-Based Guide.pdf)
+- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Artificial%20Intelligence%20in%20Finance_%20A%20Python-Based%20Guide.pdf)
 
 ### 内容简介
 

@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Maureen%20O%27Hara%20-%20Market%20Microstructure%20Theory%20%20-Wiley%20(1998).pdf)
+- **下载**: [点击下载](https://quant-wiki.com/pdf/Maureen%20O%27Hara%20-%20Market%20Microstructure%20Theory%20%20-Wiley%20%281998%29.pdf)
 
 ### 内容简介
 
