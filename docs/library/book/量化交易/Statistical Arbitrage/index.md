@@ -10,7 +10,7 @@
 - **出版年份**: 2007
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Statistical%2520Arbitrage_%2520Algorithmic%2520Trading%2520Insights%2520and%2520Techniques%2520%28Wiley%2520Finance.pdf)%20(2007).pdf)
+- **PDF下载**: [点击下载](Statistical Arbitrage_ Algorithmic Trading Insights and Techniques (Wiley Finance) (2007).pdf)
 
 ### 内容简介
 

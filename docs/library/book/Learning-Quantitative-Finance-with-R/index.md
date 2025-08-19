@@ -9,7 +9,7 @@
 - **出版年份**: 2017
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Learning%2520Quantitative%2520Finance%2520with%2520R.pdf)
+- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Learning Quantitative Finance with R.pdf)
 
 ### 内容简介
 

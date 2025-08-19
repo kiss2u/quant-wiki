@@ -10,7 +10,7 @@
 - **出版年份**: 2020
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/AI%2520for%2520Finance.pdf)
+- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/AI for Finance.pdf)
 
 ### 内容简介
 

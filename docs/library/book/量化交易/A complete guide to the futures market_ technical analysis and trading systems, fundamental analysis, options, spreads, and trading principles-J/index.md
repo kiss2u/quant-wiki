@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/A%2520complete%2520guide%2520to%2520the%2520futures%2520market_%2520technical%2520analysis%2520and%2520trading%2520systems%252C%2520fundamental%2520analysis%252C%2520options%252C%2520spreads%252C%2520and%2520trading%2520principles-J.pdf)
+- **下载**: [点击下载](https://quant-wiki.com/pdf/A complete guide to the futures market_ technical analysis and trading systems, fundamental analysis, options, spreads, and trading principles-J.pdf)
 
 
 ### 内容简介

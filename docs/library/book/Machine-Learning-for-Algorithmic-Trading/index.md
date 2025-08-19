@@ -9,7 +9,7 @@
 - **出版年份**: 2020
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Machine%2520Learning%2520for%2520Algorithmic%2520Trading.pdf)
+- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Machine Learning for Algorithmic Trading.pdf)
 
 ### 内容简介
 

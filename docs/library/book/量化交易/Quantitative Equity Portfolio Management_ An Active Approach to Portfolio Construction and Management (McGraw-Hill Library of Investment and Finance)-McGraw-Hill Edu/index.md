@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Quantitative%2520Equity%2520Portfolio%2520Management_%2520An%2520Active%2520Approach%2520to%2520Portfolio%2520Construction%2520and%2520Management%2520%28McGraw-Hill%2520Library%2520of%2520Investment%2520and%2520Finance.pdf)-McGraw-Hill%20Edu.pdf)
+- **下载**: [点击下载](https://quant-wiki.com/pdf/Quantitative Equity Portfolio Management_ An Active Approach to Portfolio Construction and Management (McGraw-Hill Library of Investment and Finance)-McGraw-Hill Edu.pdf)
 
 ### 内容简介
 

@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Optimization%2520Methods%2520in%2520Finance.pdf)
+- **下载**: [点击下载](https://quant-wiki.com/pdf/Optimization Methods in Finance（第二版）.pdf)
 
 ### 内容简介
 

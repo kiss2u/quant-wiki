@@ -8,7 +8,7 @@
 - **出版年份**: 2008
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/%E7%BA%A2%E5%AE%9D%E4%B9%A6Quant%20Job%20Interview%20Questions%20And%20Answers%20%282008%2C%20CreateSpace.pdf) - libgen.li.pdf)
+- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/红宝书Quant Job Interview Questions And Answers (2008, CreateSpace) - libgen.li.pdf)
 
 ### 内容简介
 

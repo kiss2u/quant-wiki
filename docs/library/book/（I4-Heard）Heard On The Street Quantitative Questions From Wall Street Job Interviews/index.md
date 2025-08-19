@@ -10,7 +10,7 @@
 - **出版年份**: 2003
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/%EF%BC%88I4-Heard%EF%BC%89Heard%2520On%2520The%2520Street%2520Quantitative%2520Questions%2520From%2520Wall%2520Street%2520Job%2520Interviews.pdf)
+- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/（I4-Heard）Heard On The Street Quantitative Questions From Wall Street Job Interviews.pdf)
 
 ### 内容简介
 
